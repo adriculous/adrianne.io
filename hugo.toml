@@ -1,0 +1,44 @@
+baseURL = "https://adrianne.io/"
+languageCode = "en-us"
+title = "Portal by Adrianne"
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[params]
+  description = "Welcome to the central hub of the Adrianne multiverse."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      typographer = true
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Credentials"
+    url = "/credentials/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Colophon"
+    url = "/colophon/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5

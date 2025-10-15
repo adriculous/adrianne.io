@@ -1,0 +1,11 @@
+<section class="latest">
+  <h3>🗞️ Latest from the Multiverse</h3>
+  {{ range first 4 site.Data.feeds.latest }}
+    <p>
+      {{ .emoji }} <a href="{{ .url }}">{{ .title }}</a>
+      <small> — {{ .site }}</small>
+    </p>
+  {{ else }}
+    <p>Coming soon…</p>
+  {{ end }}
+</section>

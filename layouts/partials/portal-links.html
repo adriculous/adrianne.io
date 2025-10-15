@@ -1,0 +1,19 @@
+<div class="links">
+  {{ $total := len site.Data.sites }}
+  {{ range $i, $site := site.Data.sites }}
+    {{ $isSubdomain := strings.HasSuffix $site.url ".adrianne.io" }}
+    {{ $isLast := eq (add $i 1) $total }}
+
+    <div class="link-line">
+      {{ if not $isLast }}
+        {{ if $isSubdomain }}
+          ├── {{ $site.emoji }} <a href="{{ $site.url }}" class="subdomain">{{ $site.name }}</a>
+        {{ else }}
+          ├── {{ $site.emoji }} <a href="{{ $site.url }}" class="root"><strong>{{ $site.name }}</strong></a>
+        {{ end }}
+      {{ else }}
+        └── {{ $site.emoji }} <a href="{{ $site.url }}" class="root"><strong>{{ $site.name }}</strong></a>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>

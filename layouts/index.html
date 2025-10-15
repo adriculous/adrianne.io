@@ -1,0 +1,13 @@
+{{ define "main" }}
+  {{ partial "header.html" . }}
+
+{{ partial "intro.html" . }}
+
+<p><strong>Portal Directory</strong></p>
+
+  {{ partial "portal-links.html" . }}
+
+  <hr>
+
+  {{ partial "latest.html" . }}
+{{ end }}
