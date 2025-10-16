@@ -248,3 +248,74 @@ footer {
   color: var(--accent);
   text-shadow: 0 0 4px rgba(92, 64, 0, 0.3);
 }
+
+/* ---------- Responsive tweaks for Portal by Adrianne ---------- */
+
+/* Fluid type scale */
+h1 { font-size: clamp(1.6rem, 2.5vw, 2.2rem); }
+h2 { font-size: clamp(1.25rem, 2vw, 1.6rem); }
+h3 { font-size: clamp(1.1rem, 1.6vw, 1.3rem); }
+body, p, li { font-size: clamp(0.975rem, 1.2vw, 1.05rem); line-height: 1.75; }
+
+/* Comfy content width */
+main {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: clamp(1rem, 3vw, 1.5rem);
+}
+
+/* Media that scales nicely */
+img, video, canvas, iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Navigation: flexible, wrap on small screens */
+.terminal-menu {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 0.35rem 0 1rem;
+}
+
+/* Tap targets & rhythm */
+.terminal-menu a {
+  display: inline-block;
+  padding: 0.25rem 0.1rem;
+  line-height: 1.4;
+  text-decoration: none;
+}
+
+/* Visual separators on wider screens (insert dots via CSS, not HTML) */
+@media (min-width: 641px) {
+  .terminal-menu a + a::before {
+    content: "·";
+    opacity: 0.8;
+    margin: 0 0.4rem;
+  }
+}
+
+/* On smaller screens, remove separators & add bigger gaps */
+@media (max-width: 640px) {
+  .terminal-menu {
+    gap: 0.5rem 0.75rem;
+  }
+}
+
+/* Improve readability of the “prompt” line when it wraps */
+.prompt {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* Prevent horizontal scroll explosions from code blocks */
+pre, code, kbd, samp {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* Footer spacing on mobile */
+@media (max-width: 640px) {
+  .footer-container { padding: 0 0.5rem; }
+}

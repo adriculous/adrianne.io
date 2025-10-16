@@ -1,13 +1,13 @@
 <header>
   <h1>🪄 Portal by Adrianne</h1>
 
-  <nav class="terminal-menu">
-    {{ $menuLen := len .Site.Menus.main }}
-    {{ range $index, $menu := .Site.Menus.main }}
-      {{ $isActive := eq $menu.URL $.RelPermalink }}
-      <a href="{{ $menu.URL }}" class="{{ if $isActive }}active{{ end }}">
-        {{ $menu.Name }}
-      </a>{{ if lt (add $index 1) $menuLen }} · {{ end }}
-    {{ end }}
-  </nav>
+<nav class="terminal-menu" aria-label="Primary">
+  {{ $menuLen := len .Site.Menus.main }}
+  {{ range $index, $menu := .Site.Menus.main }}
+    {{ $isActive := eq $menu.URL $.RelPermalink }}
+    <a href="{{ $menu.URL }}" class="{{ if $isActive }}active{{ end }}">
+      {{ $menu.Name }}
+    </a>
+  {{ end }}
+</nav>
 </header>
