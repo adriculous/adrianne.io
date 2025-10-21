@@ -1,4 +1,9 @@
 latest:
+  - title: "AI Idgit Chronicles I: The Math Ain't Mathing (OpenAI's Embarrassing Equation)"
+    site: "Prompted by Adrianne"
+    url: "https://ai.adrianne.io/blog/ai-idgit-mathaintmathing/"
+    emoji: "🤖"
+    
   - title: "Rebuilding My Data Analytics Portfolio"
     site: "Patterned by Adrianne"
     url: "https://data.adrianne.io/blog/portfolio-move/"
@@ -12,9 +17,4 @@ latest:
   - title: "Why I Pursued the Responsible Generative AI Certificate"
     site: "Prompted by Adrianne"
     url: "https://ai.adrianne.io/blog/responsible-ai-certificate/"
-    emoji: "🤖"
-
-  - title: "GPT Jesus: Water to Vibes?"
-    site: "Prompted by Adrianne"
-    url: "https://ai.adrianne.io/blog/gpt-jesus-water-to-vibes/"
     emoji: "🤖"
