@@ -21,6 +21,18 @@ Please click on the following links below to view my education, certifications, 
 
 ## 🤖 AI & Prompt Engineering
 
+[**Google AI Essentials Specialization**](https://coursera.org/share/59d6cbc7be6ada93d690b85b10d10302) - [*Google*](https://google.com) ([*Coursera*](https://coursera.org)) (2025)
+
+***Focus:*** Foundations of AI, which includes LLMs, prompt engineering basics, responsible AI, and staying up-to-date with AI developments. 
+
+- [Introduction to AI](https://coursera.org/share/81ffd85d3b34d853100f59298ea6609d)
+- [Maximize Productivity With AI Tools](https://coursera.org/share/828ad7c9ebe959b95985aed144e66aaf)
+- [Discover the Art of Prompting](https://coursera.org/share/0380b6c765ef18fc2e7a49a4004f181e)
+- [Use AI Responsibly](https://coursera.org/share/60eb4b99dc0b214d605ddeb8e7f2f6cc)
+- [Stay Ahead of the AI Curve](https://coursera.org/share/d2def92df3efc092858a3fcfbe0477eb)
+
+---
+
 [**Responsible Generative AI Specialization**](https://www.coursera.org/account/accomplishments/specialization/OQQM7554SFL4) — [*University of Michigan*](https://online.umich.edu) ([*Coursera*](https://coursera.org)) (2025)  
 
 ***Focus:*** Ethics and responsibly developing, assessing, integrating, and governing generative AI for current and future roles.  
