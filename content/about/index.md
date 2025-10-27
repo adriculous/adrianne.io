@@ -9,6 +9,8 @@ draft: false
 
 **Portal by Adrianne** is my professional hub — a central index to the projects, studies, and case work that reflect my identity as an **Ethical Prompt Engineer, Data Analyst, and Creative Technologist**.
 
+📄 [View my résumé →](/resume/)
+
 I integrate **visual communication** with **rigorous analysis** and **responsible AI practice**. My work focuses on:
 - Designing intuitive, humane experiences and narratives  
 - Distilling complex data into clear, actionable insight  

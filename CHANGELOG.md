@@ -4,6 +4,15 @@ All notable changes to this project are documented here.
 
 ---
 
+## [1.2.0] 2025-10-27
+- Added new résumé page under `/resume/`. Link is in the About page 🧾  
+- Updated About page to include résumé link after professional intro  
+- Reorganized Education & Certifications sections for clarity  
+- Added new certification courses (IBM Generative AI for Data Analysts, Google Prompt Engineering)  
+- Refined work experience sections for accuracy  
+
+---
+
 ## [1.1.0] - 2025-10-21 📝 *New blog post!*
 ### Added
 - New blog post: "AI Idgit Chronicles I: The Math Ain't Mathing (OpenAI's Embarrassing Equation)" at [Prompted by Adrianne](https://ai.adrianne.io/blog/ai-idgit-mathaintmathing/)
