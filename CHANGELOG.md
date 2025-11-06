@@ -4,6 +4,14 @@ All notable changes to this project are documented here.
 
 ---
 
+## [1.3.0] 2025-11-05
+### Updated
+- Added Credential Badges section to Credentials page with new flex layout from `terminal.css`
+- Added Technical Writing Certificate (Board Infinity via Coursera)
+- Updated layout for badge alignment and styling consistency across sub-sites
+
+---
+
 ## [1.2.0] 2025-10-27
 - Added new résumé page under `/resume/`. Link is in the About page 🧾  
 - Updated About page to include résumé link after professional intro  

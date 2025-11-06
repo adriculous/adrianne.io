@@ -319,3 +319,22 @@ pre, code, kbd, samp {
 @media (max-width: 640px) {
   .footer-container { padding: 0 0.5rem; }
 }
+/* --- Credential Badges layout --- */
+.badge-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.badge-row img {
+  width: 140px;
+  border-radius: 8px;
+  transition: transform 0.2s ease;
+}
+
+.badge-row img:hover {
+  transform: scale(1.05);
+}

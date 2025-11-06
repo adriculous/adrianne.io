@@ -76,6 +76,7 @@ It may seem silly, but to me, it represents a starting point that led me to my n
 ## 📊 Data Analytics
 
 [**Google Data Analytics Professional Certificate**](https://www.credly.com/badges/d25280bc-0efa-4c68-b743-495ab3d361bc/public_url) — *Google / Coursera* (2023, 2025)  
+
 ***Focus:*** Data cleaning, visualization, SQL, and R for analytics workflows.  
 
 First earned in 2023; updated with version 2 in 2025.  
@@ -97,15 +98,41 @@ First earned in 2023; updated with version 2 in 2025.
 - 🗂️ [WordPress](/certs/ap-wordpress-2015.pdf) (2015, *archived*) — currently retaking updated course  
 - 🐍 [Python](/certs/ap-python-2023.pdf) (2023)
 
+---
+
 **Sololearn Certificates** — *Sololearn* (2021 – Present)  
 - [HTML](https://www.sololearn.com/certificates/CT-LVRHW7GT) (2021)  
 - [JavaScript](https://www.sololearn.com/certificates/CT-UM1MYGE7) (2020)  
 - [PHP](https://www.sololearn.com/certificates/CC-6LP8N5CH) (2025)  
 - [Vibe Coding](https://www.sololearn.com/certificates/CC-IF7OKTXL) (2025)
 
+---
+
 **Codefinity Certifications** - [*Codefinity*](https://codefinity.com) (2025 – Present)
 - [Tailwind CSS](/certs/ap-tailwindcss-2025.png) (2025)
-  
+
+---
+
+[**Introduction to Technical Writing**](https://coursera.org/share/0560baf3dbe3016811b05c31f05da3cd) - [*Board Infinity*](https://www.boardinfinity.com/) ([*Coursera*](https://coursera.org)) (2025)  
+
+***Focus:*** Fundamentals of technical writing, documentation, and communication for developers and tech teams.
+
+---
+
+## 🎖️ Credential Badges
+
+<div class="badge-row">
+  <a href="https://www.credly.com/badges/d25280bc-0efa-4c68-b743-495ab3d361bc">
+    <img src="/images/badges/google-data-analytics-professional-certificate-v2.png" alt="Google Data Analytics Professional Certificate">
+  </a>
+  <a href="https://certopus.com/c/8238e4e68c714516ad258311e858a6f6">
+    <img src="/images/badges/ma_da102023.png" alt="Merit America Data Analytics Badge">
+  </a>
+  <a href="https://www.credly.com/badges/2ba11714-f8c4-4f43-a689-92bfa55aff6f">
+    <img src="/images/badges/google-ai-essentials-v1.png" alt="Google AI Essentials Specialization">
+  </a>
+</div>
+ 
 ---
 
 ## 📚 Ongoing Learning
