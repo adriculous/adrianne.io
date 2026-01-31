@@ -4,6 +4,12 @@ All notable changes to this project are documented here.
 
 ---
 
+## [1.4.0] 2026-01-30
+### Added
+- Added latest blog post from **Prompted by Adrianne** (ai.adrianne.io)
+
+---
+
 ## [1.3.0] 2025-11-05
 ### Updated
 - Added Credential Badges section to Credentials page with new flex layout from `terminal.css`
