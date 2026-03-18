@@ -4,6 +4,12 @@ All notable changes to this project are documented here.
 
 ---
 
+## [1.5.0] 2026-03-17
+### Added
+- Added a few certifications in the `Credentials` page from Google Certificates (Coursera) and Sololearn
+
+---
+
 ## [1.4.0] 2026-01-30
 ### Added
 - Added latest blog post from **Prompted by Adrianne** (ai.adrianne.io)
