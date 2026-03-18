@@ -4,6 +4,12 @@ All notable changes to this project are documented here.
 
 ---
 
+## [1.5.1] 2026-03-17
+### Fixed
+- Fixed a few formatting booboos at the `Credentials` page
+
+---
+
 ## [1.5.0] 2026-03-17
 ### Added
 - Added a few certifications in the `Credentials` page from Google Certificates (Coursera) and Sololearn

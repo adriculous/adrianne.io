@@ -84,13 +84,13 @@ It may seem silly, but to me, it represents a starting point that led me to my n
 
 ## 📊 Data Analytics
 
-[**Coding for Data**](https://www.sololearn.com/certificates/CC-E6UJKFSO) *Sololearn* (2026)
+[**Coding for Data**](https://www.sololearn.com/certificates/CC-E6UJKFSO) - *Sololearn* (2026)
 
 ***Focus:*** Introduction to data analytics using Python and SQL. The course features usage of Python and SQL through data cleaning, visualization using Python's libraries, and workflows.
 
 ---
 
-[**Data Analytics with AI**](https://www.sololearn.com/certificates/CC-RGEKFIH7) *Sololearn* (2026)
+[**Data Analytics with AI**](https://www.sololearn.com/certificates/CC-RGEKFIH7) - *Sololearn* (2026)
 
 ***Focus:*** Performing data analysis reports and visualizations using Generative AI.
 
