@@ -4,6 +4,12 @@ All notable changes to this project are documented here.
 
 ---
 
+## [1.6.0] 2026-03-22
+### Added
+- Added latest blog post from **Patterned by Adrianne** (data.adrianne.io)
+
+---
+
 ## [1.5.1] 2026-03-17
 ### Fixed
 - Fixed a few formatting booboos at the `Credentials` page
