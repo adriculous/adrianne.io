@@ -4,9 +4,15 @@ All notable changes to this project are documented here.
 
 ---
 
+## [1.7.0] 2026-03-24
+### Added
+- Recently completed **Google Prompting Essentials** Specialization Series -- added three new certificates in the `Credentials` page
+
+---
+
 ## [1.6.0] 2026-03-22
 ### Added
-- Added latest blog post from **Patterned by Adrianne** (data.adrianne.io)
+- Added latest blog post from **Patterned by Adrianne** (`data.adrianne.io`)
 
 ---
 
@@ -24,7 +30,7 @@ All notable changes to this project are documented here.
 
 ## [1.4.0] 2026-01-30
 ### Added
-- Added latest blog post from **Prompted by Adrianne** (ai.adrianne.io)
+- Added latest blog post from **Prompted by Adrianne** (`ai.adrianne.io`)
 
 ---
 

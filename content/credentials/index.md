@@ -21,12 +21,14 @@ Please click on the following links below to view my education, certifications, 
 
 ## 🤖 AI & Prompt Engineering
 
-**Google Prompting Essentials Specialization** *(currently studying)*
+[**Google Prompting Essentials Specialization**](https://coursera.org/share/1bf511ee603bb30fb7aa7fadf16dcdfe) [*Google*](https://google.com) ([*Coursera*](https://coursera.org)) (2026)
 
 ***Focus:*** In-depth emphasis on working with AI more effectively by composing clear and specific prompts to Generative AI. Using five easy steps for prompt composition unlocks more of AI's benefits, from performing daily work tasks, data analysis and presentations, and as a personal expert associate.
 
 - [Start Writing Prompts like a Pro](https://coursera.org/share/cbe881d0af1e79671db1aa0249927f6d)  
 - [Design Prompts for Everyday Work Tasks](https://coursera.org/share/0f417c8db8f839b7010c869092011d94)
+- [Speed Up Data Analysis and Presentation Building](https://coursera.org/share/5e57a914cba43ffe4105094bae274e78)
+- [Use AI as a Creative or Expert Partner](https://coursera.org/share/610ab291f79a13c8e0e8fb5e364d547d)
 
 ---
 
