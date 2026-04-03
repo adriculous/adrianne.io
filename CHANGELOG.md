@@ -4,6 +4,15 @@ All notable changes to this project are documented here.
 
 ---
 
+## [1.7.1] 2026-04-03
+### Added
+- Added `keybase.txt` for ownership authentication via [Keybase](https://keybase.io) manually via FTP. The GitHub Actions deploy code was not functioning correctly. It turns out it was a port problem.
+
+### Updated
+- Added `REMOTE_PORT` to a different port after contacting Hosting.com support. Hopefully the pushing of this CHANGELOG to the repo would determine that this new addition works.
+
+---
+
 ## [1.7.0] 2026-03-24
 ### Added
 - Recently completed **Google Prompting Essentials** Specialization Series -- added three new certificates in the `Credentials` page
