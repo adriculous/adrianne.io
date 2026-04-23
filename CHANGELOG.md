@@ -4,6 +4,15 @@ All notable changes to this project are documented here.
 
 ---
 
+## [1.7.2] 2026-04-22
+### Added
+- New project launched: [Adrianne Codes](https://adrianne.codes), added to the home page site link.
+
+### Updated
+- Fixed the URL of the *Patterned by Adrianne* latest post
+
+---
+
 ## [1.7.1] 2026-04-03
 ### Added
 - Added `keybase.txt` for ownership authentication via [Keybase](https://keybase.io) manually via FTP. The GitHub Actions deploy code was not functioning correctly. It turns out it was a port problem.
