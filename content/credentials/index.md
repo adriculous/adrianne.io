@@ -146,14 +146,17 @@ First earned in 2023; updated with version 2 in 2025.
 ## 🎖️ Credential Badges
 
 <div class="badge-row">
-  <a href="https://www.credly.com/badges/d25280bc-0efa-4c68-b743-495ab3d361bc">
+  <a href="https://www.credly.com/badges/d25280bc-0efa-4c68-b743-495ab3d361bc" target="_blank" rel="noopener">
     <img src="/images/badges/google-data-analytics-professional-certificate-v2.png" alt="Google Data Analytics Professional Certificate">
   </a>
-  <a href="https://certopus.com/c/8238e4e68c714516ad258311e858a6f6">
+  <a href="https://certopus.com/c/8238e4e68c714516ad258311e858a6f6" target="_blank" rel="noopener">
     <img src="/images/badges/ma_da102023.png" alt="Merit America Data Analytics Badge">
   </a>
-  <a href="https://www.credly.com/badges/2ba11714-f8c4-4f43-a689-92bfa55aff6f">
+  <a href="https://www.credly.com/badges/2ba11714-f8c4-4f43-a689-92bfa55aff6f" target="_blank" rel="noopener">
     <img src="/images/badges/google-ai-essentials-v1.png" alt="Google AI Essentials Specialization">
+  </a>
+  <a href="https://www.credly.com/badges/a1f966cd-531e-4503-b3b2-82b5eaebfca2" target="_blank" rel="noopener">
+    <img src="/images/author/credentials/google-prompting-essentials.1.png" alt="Google Prompting Essentials Specialization">
   </a>
 </div>
  

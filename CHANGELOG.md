@@ -4,6 +4,12 @@ All notable changes to this project are documented here.
 
 ---
 
+## [1.7.3] 2026-04-24
+### Added
+- New credential badge for Google Prompting Essentials Specialization in the **Credentials** page.
+
+---
+
 ## [1.7.2] 2026-04-22
 ### Added
 - New project launched: [Adrianne Codes](https://adrianne.codes), added to the home page site link.
