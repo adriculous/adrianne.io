@@ -115,7 +115,10 @@ First earned in 2023; updated with version 2 in 2025.
 
 ---
 
-## 💻 Web & Development
+## 💻☁️  Web & Cloud
+
+**Amazon Web Services** - [*AWS Educate*](https://aws.amazon.com/education/awseducate/) (2026 - Present)
+- ☁️ [Introduction to Cloud 101](https://www.credly.com/badges/3796bfae-6697-4948-a7b4-568a13ca2253/public_url) (2026)
 
 **Skillcrush Certificates** — [*Skillcrush*](https://skillcrush.com) (2015 – Present)  
 - 🗂️ [WordPress](/certs/ap-wordpress-2015.pdf) (2015, *archived*) — currently retaking updated course  
@@ -157,6 +160,9 @@ First earned in 2023; updated with version 2 in 2025.
   </a>
   <a href="https://www.credly.com/badges/a1f966cd-531e-4503-b3b2-82b5eaebfca2" target="_blank" rel="noopener">
     <img src="/images/badges/google-prompting-essentials.1.png" alt="Google Prompting Essentials Specialization">
+  </a>
+  <a href="https://www.credly.com/badges/3796bfae-6697-4948-a7b4-568a13ca2253/public_url" target="_blank" rel="noopener">
+    <img src="/images/badges/aws-educate-introduction-to-cloud-101-training-badg.png" alt="AWS Educate Introduction to Cloud 101 - Training Badge">
   </a>
 </div>
  
